@@ -1,0 +1,5 @@
+info
+error
+info
+error
+warning
